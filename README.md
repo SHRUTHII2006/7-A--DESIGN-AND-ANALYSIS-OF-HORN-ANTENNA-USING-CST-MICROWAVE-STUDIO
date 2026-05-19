@@ -7,7 +7,6 @@ To design a Horn antenna operating at 5.5 GHz and to find the directivity andHal
 CST studio suite 2019 (Student edition)
 
 ## Design:
-
 **Mathematical Calculation:**
 
 Tan θ/2 =a/2L 
